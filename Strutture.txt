@@ -1,0 +1,16 @@
+Alchimista
+Alimentari
+Armaiolo distanza
+Bacheca
+Caserma
+Erborista
+Fabbro di Armature
+Fabbro di Armi (corpo a corpo)
+Gilda
+Luoghi di culto
+Municipio
+Negozio di articoli magici
+Negozio di musica
+Negozio di oggetti da viaggio
+Taverna
+--
